@@ -54,6 +54,8 @@
 		  <p>password<input type="password" name="password"></p>
 		  <br><a href="doctor.php">Sign up</a><br>
 		  <input type="submit" name="submit" value="Login">
+		  <input type="submit" name="submit" value="Login">
+		  
 
 	</form>
 
