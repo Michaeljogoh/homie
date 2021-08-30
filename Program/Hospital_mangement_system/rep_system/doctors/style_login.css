@@ -1,0 +1,37 @@
+.logo{
+	position: relative;
+	left: 40px;
+	width: 100px;
+	height:100px;
+}
+.location{
+	position: relative;
+	left: 300px;
+	top: -20px;
+}
+.links{
+	  
+	  width: 35%;
+	  position: relative;
+	  left: 900px;
+	  padding: 15px;
+	  background-color: #2AABE2;
+	}
+	label{
+	font-family: arial;
+	position: relative;
+	left: 300px;
+	top:-40px;
+}
+.q{
+	padding: 10px;
+	text-decoration: none;
+	color: #fff;
+	font-family: arial;
+	font-weight: bold;
+	border-right: 2px solid #fff;
+}
+.q:hover{
+       background-color: #1F6387;
+       transition: all.5s ease;
+}

@@ -1,0 +1,10 @@
+*{
+	margin:0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+#l{
+	position: absolute;
+	left: 1000px;
+	text-decoration: none;
+}

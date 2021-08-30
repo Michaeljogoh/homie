@@ -1,0 +1,64 @@
+.vd{
+	border:1px solid red;
+	height: 100px;
+	padding: 20px;
+}
+.logo{
+	position: relative;
+	left: 40px;
+	width: 100px;
+	height:100px;
+}
+.location{
+	position: relative;
+	left: 300px;
+	top: -20px;
+}
+.links{
+	  
+	  width: 90%;
+	  position: relative;
+	  left: 0px;
+	  padding: 15px;
+	  background-color: #2AABE2;
+
+	  
+
+}
+.q{
+	padding: 10px;
+	text-decoration: none;
+	color: #fff;
+	font-family: arial;
+	font-weight: bold;
+	border-right: 2px solid #fff;
+	letter-spacing: 2px;
+}
+.q:hover{
+       background-color: #1F6387;
+       transition: all.5s ease;
+}
+label{
+	font-family: arial;
+	position: relative;
+	left: 300px;
+	top:-40px;
+}
+.i{
+	border-radius: 20px;
+}
+.ig{
+	/*border:1px solid red;*/
+	width: 11%;
+	float: left;
+	border-radius: 20px;
+}
+h1{
+	float: left;
+	font-family: arial;
+	color:#2AABE2;
+
+}
+.c{
+	color:#2AABE2;
+}
